@@ -4,4 +4,7 @@ Run 'make' or 'python setup.py build_ext --inplace' to create the module.
 
 The documentation referring to this is currently available here:
 
+NOTE: The github .rst parser throws away blocks of text it doesn't
+      understand, so some parts of this file are missing in the html view!
+
 https://github.com/m-paradox/numpy/blob/missingdata/doc/source/reference/c-api.maskna.rst
