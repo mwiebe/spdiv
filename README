@@ -1,0 +1,7 @@
+Example file for working with NumPy NA-masked arrays.
+
+Run 'make' or 'python setup.py build_ext --inplace' to create the module.
+
+The documentation referring to this is currently available here:
+
+https://github.com/m-paradox/numpy/blob/missingdata/doc/source/reference/c-api.maskna.rst
